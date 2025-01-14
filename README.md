@@ -1,4 +1,6 @@
-Nabla-OBS: Eğitimin Geleceği İçin Dijital Bir Çözüm
+Nabla-OBS: Eği
+![nablaekranlar](https://github.com/user-attachments/assets/04e1c9bc-f09f-40e8-8af7-2edef0188ed5)
+timin Geleceği İçin Dijital Bir Çözüm
 
 Eğitim, toplumların gelişiminde kilit bir rol oynar. İlerlemenin temeli olan bu önemli görevi yerine getirmek için, eğitim kurumları veri yönetimi, öğrenci takibi ve finansal analiz gibi karmaşık işlerle başa çıkmak zorundadır. İşte bu noktada "Nabla-OBS" devreye giriyor.
 
